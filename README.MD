@@ -4,10 +4,6 @@
     Api de reconhecimento de voz com javascript
 </h1>
 
-
-[Demonstração online](https://felipeaguiarcode.github.io/)
-
-
 <h4 align="center">SUPER MARIO ENGLISH CHALLENGE</h4> 
 </br>
   <p align="center">Jogo do super mario para responder o nome das cores em inglês usando a API de reconhecimento de voz</p>
