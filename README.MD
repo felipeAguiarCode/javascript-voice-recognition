@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LOGO" src="https://lh3.googleusercontent.com/proxy/xKmveo51_2OigEOoY3ZxtLiLZU85tTYI9ZXByuPwiXVPhxpEM_7P5wMf2NCQaq-eX_9vPrRz6R4lPfiAxQ5vJOI-NYeAG_8HkB-Z" />
+    <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" />
     <br>
     Api de reconhecimento de voz com javascript
 </h1>
@@ -36,8 +36,6 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 -  [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 ## :wrench: Como Utilizar
-
-Se o seu objetivo é experimentar o jogo, você pode acessa-lo diramente por esse [Link](https://felipeaguiarcode.github.io/)
 
 Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os seguintes comandos:
 
