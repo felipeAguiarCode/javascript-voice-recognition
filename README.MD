@@ -41,7 +41,7 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 
 ```bash
 # Clonando esse repositório
-$ git clone https://github.com/felipeAguiarCode/felipeAguiarcode.github.io.git
+$ git clone https://github.com/felipeAguiarCode/jogo-mario.git
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador
 
